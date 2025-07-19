@@ -9,7 +9,7 @@ This project aims to analyze customer churn data from a telecom company and buil
 
 ## 🧾 Dataset
 
-- **Source**: IBM Sample Data  
+- **Source**: Kaggle Dataset
 - **Filename**: `WA_Fn-UseC_-Telco-Customer-Churn.csv`  
 - **Description**: The dataset contains 7,043 customer records and 21 features including:
   - Customer demographics (gender, senior citizen, etc.)
