@@ -72,6 +72,6 @@ This project aims to analyze customer churn data from a telecom company and buil
 
 ## 📝 Future Work
 
-- Deploy the model via Flask or Streamli
+- Deploy the model via Flask or Streamlit
 
 ---
