@@ -26,8 +26,7 @@ This project aims to analyze customer churn data from a telecom company and buil
 - Seaborn, Matplotlib
 - Scikit-learn
 - XGBoost
-- Imbalanced-learn (optional for SMOTE)
-
+  
 ---
 
 ## 📈 Key Steps in the Project
