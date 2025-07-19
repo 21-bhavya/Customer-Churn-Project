@@ -1,5 +1,5 @@
 
-# 📊 Telco Customer Churn Prediction
+# 📊 Telecom Customer Churn Prediction
 
 ## 🔍 Project Overview
 
